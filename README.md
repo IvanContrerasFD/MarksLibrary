@@ -50,7 +50,7 @@ Any Matlab script or marks must be headed by the type of the marks concerned, th
     nn=15; % Number of digits
     tt=0.01; % Tolerance
     alpha=1; % Alpha parameter
-   <span style="color:blue"> global </span> tt; <span style="color:blue"> global </span> nn; <span style="color:blue"> global </span> bb; <span style="color:blue"> global </span> alpha
+    global tt; global nn; global bb; global alpha
     
     
 In fact, an interval and a mark are computationally specified by two numbers: left and right bounds for intervals and center and granularity in the case of marks. They are similar but the rules which define their operations are different.
