@@ -1,4 +1,4 @@
-# MarksLibrary
+# Marks Library
 
 This repository contains a new library for computation with intervals and marks in the frame of Matlab.
 
