@@ -9,7 +9,7 @@ The tool is based on the following files:
 
    A modal interval is a pair formed by an ordinary interval [x,y]' in the set of real numbers and a first order logic quantifier, universal or existential. 
    
-   See the "readme.pdf" of this repository or the book "Modal Interval Analysis" (Chapters 3 and 5) https://link.springer.com/book/10.1007/978-3-319-01721-1) for more detail.
+   See the "readme.pdf" of this repository or the book "Modal Interval Analysis" (Chapters 3 and 5) https://link.springer.com/book/10.1007/978-3-319-01721-1) for more details.
 
 ### File "Tests_interval"
 🟢 This file is an example containing several interval computations to test the extensions to modal intervals of the following operators:
@@ -32,7 +32,7 @@ Furthermore, interval input-output commands are included:
     
    where the tt is the tolerance previously fixed, bb and nn are the base and number of digits specific of the digital scale and, the numbers, tt, nn and bb define the type of the mark. For a given type, the mark is defined by center and granularity m=<c,gg>. 
     
-   See the "readme.pdf" of this repository or the book "Modal Interval Analysis" (Chapter 8) https://link.springer.com/book/10.1007/978-3-319-01721-1) for more detail.
+   See the "readme.pdf" of this repository or the book "Modal Interval Analysis" (Chapter 8) https://link.springer.com/book/10.1007/978-3-319-01721-1) for more details.
 
 
 ### File "Tests_mark"    
