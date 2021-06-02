@@ -18,9 +18,10 @@ The tool is based on the following files:
         - Two variable operators: join, meet, prop, impr, min, max, +, -, *, /, min, max  
         - Relational operators: =, <=, >= 
   
-  Furthermore, interval input-output commands are included:
+  
+Furthermore, interval input-output commands are included:
         
-        - The input for a modal interval is I=interval(a1,a2)
+        - Input for a modal interval is I=interval(x,y)
     
 ### File "mark.p"    
 🟢 This file is the Matlab script to perform computations with marks.
