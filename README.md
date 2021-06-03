@@ -43,7 +43,8 @@ Furthermore, interval input-output commands are included:
         - Relational estrict, material and weak operators: =, <=, >=
         
  Furthermore, interval input-output commands are included:
-        - Input for a mark m is m=mark(c,gg)
+         
+         - Input for a mark m is m=mark(c,gg)
     
 Any Matlab script or marks must be headed by the type of the marks concerned, the tolerance and a parameter 0<alpha £1 (normally 1) which determine a generalized condition of significance for the marks.
 
