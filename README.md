@@ -9,8 +9,12 @@ The tool is based on the following files:
 
    A modal interval is a pair formed by an ordinary interval [x,y]' and a first order logic quantifier, universal or existential. 
    
-   See the book "Modal Interval Analysis" (Chapters 3 and 5, https://link.springer.com/book/10.1007/978-3-319-01721-1) for more details.
+   See the book "Modal Interval Analysis" (Chapters 3 and 5) for more details about intervals:
 
+<img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-01721-1" width="50" height="75"> 
+
+https://link.springer.com/book/10.1007/978-3-319-01721-1
+                                                                                                                     
 ### File "Tests_interval"
 🟢 This file is an example containing several interval computations to test the extensions to modal intervals of the following operators:
     
@@ -32,8 +36,10 @@ Furthermore, interval input-output commands are included:
     
    where the tt is the tolerance previously fixed, bb and nn are the base and number of digits specific of the digital scale. The numbers, tt, nn and bb define the type of the mark. For a given type, the mark is defined by center and granularity m=<c,gg>. 
     
-   See the book "Modal Interval Analysis" (Chapter 8, https://link.springer.com/book/10.1007/978-3-319-01721-1) for more details.
+   See the book "Modal Interval Analysis" (Chapter 8) for more details about marks:
 
+<img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-01721-1" width="50" height="75"> 
+https://link.springer.com/book/10.1007/978-3-319-01721-1
 
 ### File "Tests_mark"    
 🟢 This file is an example containing several interval computations to test the extensions to marks of the following operators:
